@@ -1,0 +1,21 @@
+{
+  "name": "marckys-gay-bot",
+  "version": "0.0.1",
+  "description": "I don't know, just some bot that is simple I guess.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.0"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
